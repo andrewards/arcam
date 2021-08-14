@@ -1,4 +1,4 @@
-# arcam
+# Arcam
 
 - Auth
 - Routes
